@@ -38,7 +38,7 @@ export const Footer = () => {
           <HoverableIcon
             iconUrl={github}
             hoveredIconUrl={githubHovered}
-            link="https://github.com/ton-blockchain/minter"
+            link="https://github.com/Elishaokon13/TON-MINTER"
           />
         </SocialsContent>
       </SocialsWrapper>
@@ -49,7 +49,7 @@ export const Footer = () => {
         </FooterTextBoxLeft>
         <ContributedWrapper>
           <Typography variant="body2" sx={{ display: "flex", alignItems: "center" }}>
-            Contributed with
+            Built
             <CenteringWrapper mx={0.4}>
               <img src={heart} alt="Orbs logo" width={12} height={12} />
             </CenteringWrapper>
@@ -60,8 +60,8 @@ export const Footer = () => {
             <FooterLink
               sx={{ color: "#5E75E8", display: "flex", alignItems: "center" }}
               target="_blank"
-              href="https://orbs.com/">
-              Orbs
+              href="https://defidevrel.vercel.app">
+              Defidevrel
             </FooterLink>
           </Typography>
         </ContributedWrapper>

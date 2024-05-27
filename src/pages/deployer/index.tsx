@@ -189,11 +189,11 @@ function Description() {
           available here
         </Link>
         . The HTML form is also{" "}
-        <Link target="_blank" href="https://github.com/ton-blockchain/minter">
+        <Link target="_blank" href="https://github.com/Elishaokon13/TON-MINTER">
           open source
         </Link>{" "}
         and served from{" "}
-        <Link target="_blank" href="https://github.com/ton-blockchain/minter">
+        <Link target="_blank" href="https://github.com/Elishaokon13/TON-MINTER">
           GitHub Pages
         </Link>
         . <Spacer />
