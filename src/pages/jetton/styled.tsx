@@ -73,7 +73,7 @@ const StyledTopImg = styled(Box)(({ theme }) => ({
   [theme.breakpoints.down("sm")]: {
     width: 60,
     height: 60,
-    border: "2px solid #D9D9D9",
+    border: "2px solid #008000",
   },
 }));
 

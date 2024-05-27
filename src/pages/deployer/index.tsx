@@ -178,14 +178,14 @@ function Description() {
         For detailed instructions and in-depth explanations of all fields please see the{" "}
         <Link
           target="_blank"
-          href="https://github.com/ton-blockchain/minter-contract#jetton-metadata-field-best-practices">
+          href="https://github.com/Elishaokon13/TON-MINTER#jetton-metadata-field-best-practices">
           GitHub README
         </Link>
         . It includes several best practice recommendations so please take a look.
         <Spacer />
         Never deploy code that you've never seen before! This deployer is fully open source with all
         smart contract code{" "}
-        <Link target="_blank" href="https://github.com/ton-blockchain/minter-contract">
+        <Link target="_blank" href="https://github.com/Elishaokon13/TON-MINTER">
           available here
         </Link>
         . The HTML form is also{" "}
@@ -200,7 +200,7 @@ function Description() {
         Is this deployer safe? Yes! Read{" "}
         <Link
           target="_blank"
-          href="https://github.com/ton-blockchain/minter-contract#protect-yourself-and-your-users">
+          href="https://github.com/Elishaokon13/TON-MINTER#protect-yourself-and-your-users">
           this
         </Link>{" "}
         to understand why.

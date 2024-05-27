@@ -6,10 +6,10 @@ import { JettonDetailMessage } from "./types";
 export { BigNumber } from "bignumber.js";
 
 const commonGithubUrl =
-  "https://github.com/ton-blockchain/minter-contract#protect-yourself-and-your-users";
+  "https://github.com/Elishaokon13/TON-MINTER#protect-yourself-and-your-users";
 
 const offChainGithubUrl =
-  "https://github.com/ton-blockchain/minter-contract#jetton-metadata-field-best-practices";
+  "https://github.com/Elishaokon13/TON-MINTER#jetton-metadata-field-best-practices";
 
 export const getFaultyMetadataWarning = (isAdminRevokedOwnership?: boolean) => {
   if (isAdminRevokedOwnership) {

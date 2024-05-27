@@ -32,7 +32,7 @@ const StyledButton = styled(LoadingButton)((props: StyledButtonProps) => ({
     maxWidth: 22,
   },
   "&:disabled": {
-    background: "#D9D9D9",
+    background: "#008000",
   },
 }));
 

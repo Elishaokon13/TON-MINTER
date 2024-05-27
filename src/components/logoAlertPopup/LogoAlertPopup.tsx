@@ -31,7 +31,7 @@ export const LogoAlertPopup = ({
       </Typography>
       <Box sx={{ alignSelf: "baseline" }} mx={2} mt={1}>
         <PopupLink
-          href="https://github.com/ton-blockchain/minter-contract#jetton-metadata-field-best-practices"
+          href="https://github.com/Elishaokon13/TON-MINTER#jetton-metadata-field-best-practices"
           target="_blank">
           Best practices for storing logo
           <img alt="Open icon" src={openLink} width={11} height={11} style={{ marginLeft: 4 }} />
